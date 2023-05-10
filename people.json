@@ -1,0 +1,122 @@
+[
+    {
+        "gender": "F",
+        "firstName": "Ana",
+        "lastName": "Kowalski",
+        "age": 29
+    },
+    {
+        "gender": "F",
+        "firstName": "Ala",
+        "lastName": "Schmidt",
+        "age": 27
+    },
+    {
+        "gender": "M",
+        "firstName": "Andrzej",
+        "lastName": "Schmidt",
+        "age": 71
+    },
+    {
+        "gender": "F",
+        "firstName": "Ana",
+        "lastName": "Schmidt",
+        "age": 42
+    },
+    {
+        "gender": "M",
+        "firstName": "John",
+        "lastName": "Smith",
+        "age": 42
+    },
+    {
+        "gender": "M",
+        "firstName": "Andrzej",
+        "lastName": "Kowalski",
+        "age": 29
+    },
+    {
+        "gender": "M",
+        "firstName": "Bob",
+        "lastName": "Artois",
+        "age": 25
+    },
+    {
+        "gender": "F",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "age": 49
+    },
+    {
+        "gender": "F",
+        "firstName": "Ana",
+        "lastName": "Artois",
+        "age": 36
+    },
+    {
+        "gender": "M",
+        "firstName": "Carl",
+        "lastName": "Schmidt",
+        "age": 73
+    },
+    {
+        "gender": "M",
+        "firstName": "Bob",
+        "lastName": "Kowalski",
+        "age": 37
+    },
+    {
+        "gender": "M",
+        "firstName": "John",
+        "lastName": "Kowalski",
+        "age": 70
+    },
+    {
+        "gender": "M",
+        "firstName": "Andrzej",
+        "lastName": "Smith",
+        "age": 42
+    },
+    {
+        "gender": "M",
+        "firstName": "Bob",
+        "lastName": "Artois",
+        "age": 76
+    },
+    {
+        "gender": "F",
+        "firstName": "Carla",
+        "lastName": "Schmidt",
+        "age": 76
+    },
+    {
+        "gender": "F",
+        "firstName": "Ana",
+        "lastName": "Schmidt",
+        "age": 76
+    },
+    {
+        "gender": "M",
+        "firstName": "Andrzej",
+        "lastName": "Smith",
+        "age": 24
+    },
+    {
+        "gender": "M",
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "age": 75
+    },
+    {
+        "gender": "M",
+        "firstName": "Bob",
+        "lastName": "Kowalski",
+        "age": 33
+    },
+    {
+        "gender": "M",
+        "firstName": "Bob",
+        "lastName": "Schmidt",
+        "age": 50
+    }
+]
